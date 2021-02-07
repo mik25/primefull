@@ -1,0 +1,1 @@
+{"id":"org.tvprimeiptv","version":"1.0.1","name":"TVPrime IPTV","description":"Latino/Mixed Stream and Vod","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["fullptvprime"],"icon":"https://github.com/mik25/primefull/logo.png","catalogs":[{"id":"fullptvprimecat","name":"TVPrime IPTV","type":"tv"}]}
